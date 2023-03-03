@@ -1,7 +1,7 @@
 # somefTester
 This Repo is to Test SOCA and SOMEF
 
-# Frequently Asked Questions
+# FAQ
 This is a simulation of Frequently asked Questions
 
 ## General Questions
