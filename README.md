@@ -2,7 +2,8 @@
 
 # FAQ
 This is a simulation of Frequently asked Questions
-
+Going to ask a question like this?
+Sure
 ## General Questions
 ### Test Question 1?
 Good spawn
