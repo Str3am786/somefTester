@@ -1,11 +1,19 @@
 
+
 # FAQ
 This is a simulation of Frequently asked Questions
 
 ## General Questions
-### Why are you so handsome? Yes you, the one reading this, HOW?
+### Test Question 1?
 Good spawn
 
-### Why did I create this?
+### Question2?
 Why not? docs.python.org
+
+### Documentation?
+It can be found in test.docs.org
+
+## Support
+More information can be found: https://github.com/Str3am786/somefTester/
+
 
